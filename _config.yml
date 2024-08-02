@@ -3,7 +3,7 @@ title: Canrea的博客
 SEOTitle: Canrea的博客 | Canrea Blog
 header-img: img/home-bg.jpg
 email: 2023815811@qq.com
-description: "这里是 @HCanrea 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: "这里是 @Canrea 的个人博客，与你一起发现更大的世界"
 keyword: "Canrea"
 url: "https://lime-lxl.top" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -74,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: img/lime.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Hello World <br> 你好 世界"
+sidebar-avatar: https://i0.hdslb.com/bfs/face/f3d5f71dc159f6accfd7a98223f5719864726e9d.jpg@150w_150h.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
